@@ -21,6 +21,6 @@ Several data visualizations were used to analyze the NYC Citi Bike trip data and
 ## Summary:
 - The analysis indicates the most common use for Citi Bikes are: by males subscribers, for shorter trips (less than 40 minutes, with a peak at 6 minutes), during commuting hours during weekdays and more flexible times during weekends. As well, starting and stopping locations are similarly clustered in central hubs of NYC. 
 - If Citi Bikes are being considered in Des Moines, Iowa, they should be piloted in commuting regions and tourist hubs within the city.
-- Two additional visualizations are suggested for future analysis include: 
+- Two additional visualizations that could be included for future analysis include: 
 1. Cost per ride for subscribers and customers, and
 2. Frequency of accidents overall.
