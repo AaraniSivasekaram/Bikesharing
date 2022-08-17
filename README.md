@@ -15,7 +15,7 @@ Several data visualizations were used to analyze the NYC Citi Bike trip data and
 4. Heat map of bike trips by hour by day of the week - Data visualization indicates bike usage peaks during commuting hours on weekdays (7-9am and 5-7pm) and during different hours during weekends. Citi Bikes may be a useful mode of transportation for NYC commuters.
 5. Heat map of bike trips by hour by day of the week by gender breakdown - Heat maps indicated peak commuting hours during the weekdays and different hours of usage during the weekend remained consistent across all genders. 
 6. Heat map of bike trips by user by weekday with a gender breakdown - Data showed number of bike trips for each type of user and gender for each day of the week. Male subscribers used Citi Bikes the most compared to other types of users (customers) and genders (female and unknown). 
-7. Top stating locations for bike use - Map indicates a cluster of start locations that may correlated with tourist areas and city hubs. 
+7. Top starting locations for bike use - Map indicates a cluster of start locations that may correlated with tourist areas and city hubs. 
 8. Top ending locations for bike use - Map indicates a cluster of ending locations that may correlated with tourist areas and city hubs. This map mirrors the starting locations map. 
 
 ## Summary:
